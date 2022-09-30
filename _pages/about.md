@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 😊 About Me
 My name is Kaining Zhang, a Ph.D. student at Wuhan University. My research interests mainly lie in stereo vision and its applications (SLAM, Structure-from-Motion,
 large-scale visual localization, etc.). Previously I have been focused on loop closure detection to improve the performance of monocular SLAM (related fields: image retrieval, place recognition, image matching, etc.). Currently I am working on the intersection between 3D geometry and deep learning.
 
