@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "cv/KainingZhang_CV.pdf"
+  cv               : "/cv/KainingZhang_CV.pdf"
 
 # Reading Files
 include:
