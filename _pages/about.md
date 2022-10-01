@@ -27,7 +27,7 @@ large-scale visual localization, etc.). Previously I have been focused on loop c
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/paper/LPM-GC.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/paper/LPM-GC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Loop Closure Detection via Locality Preserving Matching with Global Consensus](paper/LPM-GC.pdf)
