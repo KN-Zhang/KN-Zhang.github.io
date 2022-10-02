@@ -40,4 +40,16 @@ IEEE/CAA Journal of Automatica Sinica (JAS), 2022
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LMSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Loop Closure Detection with Reweighting NetVLAD and Local Motion and Structure Consensus](paper/LMSC.pdf)
+
+**Kaining Zhang**, [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ), [Junjun Jiang](https://scholar.google.com.hk/citations?hl=zh-CN&user=WNH2_rgAAAAJ)
+
+IEEE/CAA Journal of Automatica Sinica (JAS), 2022
+  
+- We propose AttentionNetvald to extract more powerful image representation, and address feature matching via information lying on both a 2D space and an intrinsic manifold.
+</div>
+</div>
+
