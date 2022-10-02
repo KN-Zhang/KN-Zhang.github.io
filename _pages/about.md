@@ -56,7 +56,7 @@ IEEE/CAA Journal of Automatica Sinica (JAS), 2022
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2021</div><img src='images/paper/LAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Appearance-Based Loop Closure Detection via Locality-Driven Accurate Motion Field Learning]([paper/LMSC.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457132))
+[Appearance-Based Loop Closure Detection via Locality-Driven Accurate Motion Field Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457132)
 
 **Kaining Zhang**, [Xingyu Jiang](https://scholar.google.com.hk/citations?user=h2W90MQAAAAJ&hl=zh-CN&oi=ao), [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ)
 
