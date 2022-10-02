@@ -79,3 +79,16 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/paper/ICRA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Appearance-based Loop Closure Detection via Bidirectional Manifold Representation Consensus](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561704)
+
+**Kaining Zhang**, [Zizhuo Li](https://scholar.google.com.hk/citations?user=bxuEALEAAAAJ&hl=zh-CN&oi=ao), [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ)
+
+IEEE International Conference on Robotics and Automation (ICRA), 2021
+  
+- We attempt to address loop closure detection (LCD) from the semantic aspect to the geometric one. Based on this idea, the proposed LCD system can achieve satisfying results.
+</div>
+</div>
+
