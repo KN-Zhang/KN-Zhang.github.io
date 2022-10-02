@@ -30,7 +30,7 @@ large-scale visual localization, etc.). Previously I have been focused on loop c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LPM-GC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Loop Closure Detection via Locality Preserving Matching with Global Consensus](paper/LPM-GC.pdf)
+[Loop Closure Detection via Locality Preserving Matching with Global Consensus](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2022.105926)
 
 [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ), **Kaining Zhang**, [Junjun Jiang](https://scholar.google.com.hk/citations?hl=zh-CN&user=WNH2_rgAAAAJ)
 
