@@ -27,7 +27,7 @@ large-scale visual localization, etc.). Previously I have been focused on loop c
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LPM-GC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LPM-GC.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Loop Closure Detection via Locality Preserving Matching with Global Consensus](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2022.105926)
@@ -40,7 +40,7 @@ IEEE/CAA Journal of Automatica Sinica (JAS), 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LMSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LMSC.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Loop Closure Detection with Reweighting NetVLAD and Local Motion and Structure Consensus](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785936)
@@ -53,7 +53,7 @@ IEEE/CAA Journal of Automatica Sinica (JAS), 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2021</div><img src='images/paper/LAL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2021</div><img src='images/paper/LAL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Appearance-Based Loop Closure Detection via Locality-Driven Accurate Motion Field Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9457132)
@@ -66,7 +66,7 @@ IEEE Transactions on Intelligent Transportation Systems (TITS), 2021
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='images/paper/IROS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='images/paper/IROS.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Motion Field Consensus with Locality Preservation: A Geometric Confirmation Strategy for Loop Closure Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636769)
@@ -79,7 +79,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/paper/ICRA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/paper/ICRA.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Appearance-based Loop Closure Detection via Bidirectional Manifold Representation Consensus](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561704)
