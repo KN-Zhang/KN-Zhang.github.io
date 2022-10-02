@@ -62,6 +62,19 @@ IEEE/CAA Journal of Automatica Sinica (JAS), 2022
 
 IEEE Transactions on Intelligent Transportation Systems (TITS), 2021
   
+- This is a more complete version of our IROS 2021. We propose a more reasonable loss to revise the motion field, and decrease the time complexity of the algorithm from O(N^3) to O(N). Meanwhile, experiments are conducted on more challenging datasets.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2021</div><img src='images/paper/IROS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Motion Field Consensus with Locality Preservation: A Geometric Confirmation Strategy for Loop Closure Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636769)
+
+**Kaining Zhang**, [Xingyu Jiang](https://scholar.google.com.hk/citations?user=h2W90MQAAAAJ&hl=zh-CN&oi=ao), [Xiaoguang Mei](https://scholar.google.com.hk/citations?user=2rgDpugAAAAJ&hl=zh-CN&oi=ao), [Huabing Zhou](https://scholar.google.com.hk/citations?user=9JwkFBEAAAAJ&hl=zh-CN&oi=ao), [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ)
+
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
+  
 - We address feature matching in the perspective of motion field recovery, and add extra constraints to the motion field to make it more suitable for scenes within  loop closure detection. 
 </div>
 </div>
