@@ -27,15 +27,16 @@ large-scale visual localization, etc.). Previously I have been focused on loop c
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/paper/LPM-GC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LPM-GC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Loop Closure Detection via Locality Preserving Matching with Global Consensus](paper/LPM-GC.pdf)
 
 [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ), **Kaining Zhang**, [Junjun Jiang](https://scholar.google.com.hk/citations?hl=zh-CN&user=WNH2_rgAAAAJ)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+IEEE/CAA Journal of Automatica Sinica (JAS), 2022
+  
+- A simple yet surprisingly effective feature matching approach is proposed for scenes within loop closure detection tasks (e.g., scenes with repetitive structures). The algorithm can provide reliable correspondences within only a few milliseconds.  
 </div>
 </div>
 
