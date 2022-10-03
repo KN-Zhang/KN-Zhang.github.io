@@ -26,7 +26,6 @@ large-scale visual localization, etc.). Previously I have been focused on loop c
 - *2015.09 - 2019.06*, B.S. in Electronic Information Science and Technology, Electronic Information School, Wuhan University, Wuhan, China.
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LPM-GC.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
