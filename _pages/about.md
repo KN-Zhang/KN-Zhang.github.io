@@ -26,6 +26,19 @@ large-scale visual localization, etc.). Previously I have been focused on loop c
 - *2015.09 - 2019.06*, B.S. in Electronic Information Science and Technology, Electronic Information School, Wuhan University, Wuhan, China.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2022</div><img src='images/paper/LAL.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Loop Closure Detection via Bidirectional Manifold Representation Consensus](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994239)
+
+**Kaining Zhang**, [Zizhuo Li](https://scholar.google.com.hk/citations?user=bxuEALEAAAAJ&hl=zh-CN&oi=ao), [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ)
+
+IEEE Transactions on Intelligent Transportation Systems (TITS), 2022
+  
+- This is a comprehensive extension of our ICRA 2021. We speed up our algorithm by 63% and build the incremental database via HNSW. Meanwhile, experiments are conducted on more challenging datasets.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2021</div><img src='images/paper/LAL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
