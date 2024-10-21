@@ -33,7 +33,7 @@ My name is Kaining Zhang, a Ph.D. student at Wuhan University. My research inter
 
 [Sparse-to-dense Multimodal Image Registration via Multi-Task Learning](https://openreview.net/pdf?id=q0vILV7zAw)
 
-**Kaining Zhang**, [Zizhuo Li](https://scholar.google.com.hk/citations?user=bxuEALEAAAAJ&hl=zh-CN&oi=ao), [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ)
+**Kaining Zhang**, [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ)
 
 International Conference on Machine Learning (ICML), 2024
   
