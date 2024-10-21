@@ -28,7 +28,7 @@ My name is Kaining Zhang, a Ph.D. student at Wuhan University. My research inter
 - *2015.09 - 2019.06*, B.Sc. in Electronic Information Science and Technology, Electronic Information School, Wuhan University, Wuhan, China.
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/paper/ICML2024.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/paper/ICML2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sparse-to-dense Multimodal Image Registration via Multi-Task Learning](https://openreview.net/pdf?id=q0vILV7zAw)
