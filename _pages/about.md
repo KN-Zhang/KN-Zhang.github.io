@@ -28,7 +28,20 @@ My name is Kaining Zhang, a Ph.D. student at Wuhan University. My research inter
 - *2015.09 - 2019.06*, B.Sc. in Electronic Information Science and Technology, Electronic Information School, Wuhan University, Wuhan, China.
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/AAAI2024.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/paper/ICML2024.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sparse-to-dense Multimodal Image Registration via Multi-Task Learning](https://openreview.net/pdf?id=q0vILV7zAw)
+
+**Kaining Zhang**, [Zizhuo Li](https://scholar.google.com.hk/citations?user=bxuEALEAAAAJ&hl=zh-CN&oi=ao), [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ)
+
+International Conference on Machine Learning (ICML), 2024
+  
+- We propose a novel matching paradigm to address the drawbacks that current multimodal image matching paradigms are facing. Experiments are conducted on several cross-modal scenarios, including visible-infrared, visible-near infrared, and GoogleEarth.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/AAAI2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ResMatch: Residual Attention Learning for Feature Matching](https://ojs.aaai.org/index.php/AAAI/article/view/27915)
