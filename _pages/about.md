@@ -41,7 +41,7 @@ International Conference on Machine Learning (ICML), 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/AAAI2024.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/paper/AAAI2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ResMatch: Residual Attention Learning for Feature Matching](https://ojs.aaai.org/index.php/AAAI/article/view/27915)
