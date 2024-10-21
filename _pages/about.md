@@ -54,6 +54,32 @@ IEEE Transactions on Intelligent Transportation Systems (TITS), 2022
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LMSC.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Loop Closure Detection with Reweighting NetVLAD and Local Motion and Structure Consensus](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785936)
+
+**Kaining Zhang**, [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ), [Junjun Jiang](https://scholar.google.com.hk/citations?hl=zh-CN&user=WNH2_rgAAAAJ)
+
+IEEE/CAA Journal of Automatica Sinica (JAS), 2022
+  
+- We propose AttentionNetVLAD to extract more powerful image representation, and address feature matching via information lying on both a 2D space and an intrinsic manifold.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LPM-GC.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Loop Closure Detection via Locality Preserving Matching with Global Consensus](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2022.105926)
+
+[Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ), **Kaining Zhang**, [Junjun Jiang](https://scholar.google.com.hk/citations?hl=zh-CN&user=WNH2_rgAAAAJ)
+
+IEEE/CAA Journal of Automatica Sinica (JAS), 2022
+  
+- A simple yet surprisingly effective feature matching approach is proposed for scenes within loop closure detection tasks (e.g., scenes with repetitive structures). The algorithm can provide reliable correspondences within only a few milliseconds.  
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2021</div><img src='images/paper/LAL.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -90,32 +116,6 @@ IEEE International Conference on Robotics and Automation (ICRA), 2021
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
   
 - We address feature matching in the perspective of motion field recovery, and add extra constraints to the motion field to make it more suitable for scenes within  loop closure detection. 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LMSC.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Loop Closure Detection with Reweighting NetVLAD and Local Motion and Structure Consensus](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785936)
-
-**Kaining Zhang**, [Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ), [Junjun Jiang](https://scholar.google.com.hk/citations?hl=zh-CN&user=WNH2_rgAAAAJ)
-
-IEEE/CAA Journal of Automatica Sinica (JAS), 2022
-  
-- We propose AttentionNetVLAD to extract more powerful image representation, and address feature matching via information lying on both a 2D space and an intrinsic manifold.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAS 2022</div><img src='images/paper/LPM-GC.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Loop Closure Detection via Locality Preserving Matching with Global Consensus](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2022.105926)
-
-[Jiayi Ma](https://scholar.google.com.hk/citations?hl=zh-CN&user=73trMQkAAAAJ), **Kaining Zhang**, [Junjun Jiang](https://scholar.google.com.hk/citations?hl=zh-CN&user=WNH2_rgAAAAJ)
-
-IEEE/CAA Journal of Automatica Sinica (JAS), 2022
-  
-- A simple yet surprisingly effective feature matching approach is proposed for scenes within loop closure detection tasks (e.g., scenes with repetitive structures). The algorithm can provide reliable correspondences within only a few milliseconds.  
 </div>
 </div>
 
