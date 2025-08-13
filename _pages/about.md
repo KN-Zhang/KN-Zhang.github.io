@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😊 About Me
-My name is Kaining Zhang, a Ph.D. student at Wuhan University. My research interests mainly lie in the intersection between 3D geometry and deep learning, specifically for tasks such as image matching, large-scale visual localization, 3D scene reconstruction, etc. **Currently I am looking for a postdoctoral position to continue my research in related fields**.
+# About Me
+I am currently an Assistant Professor at School of Artificial Intelligence and Robotics, Hunan University (HNU). I received my Ph.D. degree in Communication and Information Systems from Wuhan University (WHU), advised by Prof. [Jiayi Ma](https://sites.google.com/site/jiayima2013/jiayi-ma-\%E9\%A9\%AC\%E4\%BD\%B3\%E4\%B9\%89-professor), and spent one year as a visiting scholar at University of Bern under the guidance of Prof. [Paolo Favaro](https://www.cvg.unibe.ch/people/favaro). Prior to that, I earned my B.S. degree in Electronic Information Science and Technology from WHU—a place where I spent ten rewarding years of study and research.
 
-# 📖 Educations
-- *2023.12 - 2025.01*, visiting Ph.D. student, Computer Vision Group, University of Bern, Switzerland.
-  - **Advisor: Prof. [Paolo Favaro](https://www.cvg.unibe.ch/people/favaro)**
-- *2019.09 - 2024.06 (expected)*, Ph.D. student, Multi-Spectral Vision Processing Lab, Wuhan University, Wuhan, China.
-  - **Advisor: Prof. [Jiayi Ma](https://sites.google.com/site/jiayima2013/jiayi-ma-\%E9\%A9\%AC\%E4\%BD\%B3\%E4\%B9\%89-professor)**
-- *2015.09 - 2019.06*, B.Sc. in Electronic Information Science and Technology, Electronic Information School, Wuhan University, Wuhan, China.
+I'm always interested in exploring the integration of deep learning with geometry-based pipelines, with a focus on tasks such as multimodal image matching, visual localization, 3D scene perception, and remote sensing. I am always open to academic discussions and collaborations, whether on these topics or on any related areas that spark your interest. :))
+
+<!--# Educations
+%- *2023.12 - 2025.01*, visiting Ph.D. student, Computer Vision Group, University of Bern, Switzerland.
+%  - **Advisor: Prof. [Paolo Favaro](https://www.cvg.unibe.ch/people/favaro)**
+%- *2019.09 - 2024.06 (expected)*, Ph.D. student, Multi-Spectral Vision Processing Lab, Wuhan University, Wuhan, China.
+%  - **Advisor: Prof. [Jiayi Ma](https://sites.google.com/site/jiayima2013/jiayi-ma-\%E9\%A9\%AC\%E4\%BD\%B3\%E4\%B9\%89-professor)**
+%- *2015.09 - 2019.06*, B.Sc. in Electronic Information Science and Technology, Electronic Information School, Wuhan University, Wuhan, China.-->
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/paper/ICML2024.png' alt="sym" width="80%"></div></div>
