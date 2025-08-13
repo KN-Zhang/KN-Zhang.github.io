@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kaining Zhang"
-description              : "Ph.D. student at Wuhan University."
+description              : "Assistant Professor at Hunan University."
 repository               : "KN-Zhang/KN-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaining Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Wuhan University"
-  location         : "Wuhan, China"
+  bio              : #"Wuhan University"
+  location         : "Room 310, Building C1, School of Artificial Intelligence and Robotics, Hunan University, Changsha, Hunan 410082, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bmnZN8sAAAAJ&hl=zh-CN"
